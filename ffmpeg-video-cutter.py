@@ -5,7 +5,7 @@ from re import search
 
 def help():
     print("Cut video using ffmpeg")
-    print("Author: SakaDream")
+    print("Author: Shashank")
     print("Command: python cut-video.py <FileName> <Start> <End>")
     print("Duration format: hh:mm:ss")
     print("Example: 00:10:20\n")
